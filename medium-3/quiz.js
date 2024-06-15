@@ -2,6 +2,7 @@ let quizContainer;
 let userAnswers=[];
 const quizData = [
     {
+        //question of the quiz //
         question: "What is the capital of France?",
         choices: ["Paris", "London", "Berlin", "Rome"],
         correctAnswer: "Paris"
